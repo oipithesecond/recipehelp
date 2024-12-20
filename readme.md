@@ -1,2 +1,2 @@
-Simple recipe website made for WiOS interview.
+Simple recipe website 
 
